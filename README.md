@@ -1,1 +1,1 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:614385,100:516395&height=180&section=header&text=DaHae%20Shin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30)
+![](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Welcome%20to%20DaHae's%20log%20%20&fontAlign=50&fontSize=30&textBg=true&desc=&descAlign=60&descAlignY=50)
